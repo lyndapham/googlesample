@@ -1,3 +1,3 @@
-This is my file and samples
+# About Me
 
-I am making changes to this file
+This is my about me project. It's not *everything* about me, but it's a start.
